@@ -1,0 +1,7 @@
+id,city,country,region,style_tags,avg_lodging_per_night,avg_food_per_day,avg_local_transport_per_day,notes
+1,Lisbon,Portugal,europe,"food,museums,coastal,walkable",120,45,10,"Good value, easy day trips"
+2,Tokyo,Japan,asia,"food,nightlife,museums,shopping",160,55,15,"High density, great transit"
+3,Mexico City,Mexico,americas,"food,museums,markets,history",90,35,8,"Excellent museums and food"
+4,Vancouver,Canada,americas,"nature,coastal,walkable",150,50,12,"Outdoor + city mix"
+5,Barcelona,Spain,europe,"food,architecture,museums,beach",150,55,12,"Popular, slightly higher cost"
+6,Reykjavik,Iceland,europe,"nature,scenic,roadtrip",220,70,25,"Expensive but unique"

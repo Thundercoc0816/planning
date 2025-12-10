@@ -1,0 +1,5 @@
+streamlit==1.41.1
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+langgraph==0.2.63
+langchain-core==0.3.28

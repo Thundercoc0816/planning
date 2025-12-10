@@ -1,0 +1,31 @@
+city,name,tag,cost_est,typical_hours
+Lisbon,Alfama Walk,walk,0,2
+Lisbon,Belem + Pasteis,food,15,3
+Lisbon,Jeronimos Monastery,museums,12,2
+Lisbon,Time Out Market,food,25,2
+Lisbon,Sintra Day Trip,nature,60,8
+Tokyo,Tsukiji Outer Market,food,20,3
+Tokyo,Asakusa + Senso-ji,history,0,3
+Tokyo,Ueno Museums,museums,18,3
+Tokyo,Shibuya + Harajuku,shopping,0,4
+Tokyo,TeamLab,art,40,3
+Mexico City,Chapultepec Park,nature,0,3
+Mexico City,Anthropology Museum,museums,10,3
+Mexico City,Historic Center Walk,history,0,3
+Mexico City,Taco Crawl,food,25,3
+Mexico City,Xochimilco,coastal,30,4
+Vancouver,Stanley Park,nature,0,3
+Vancouver,Granville Island,food,20,3
+Vancouver,Capilano Bridge,nature,60,4
+Vancouver,Gastown Walk,walk,0,2
+Vancouver,Sea-to-Sky Day Trip,nature,40,8
+Barcelona,Sagrada Familia,architecture,30,3
+Barcelona,Gothic Quarter Walk,walk,0,3
+Barcelona,Picasso Museum,museums,15,2
+Barcelona,Tapas Night,food,30,3
+Barcelona,Beach Time,coastal,0,3
+Reykjavik,Golden Circle Tour,nature,120,10
+Reykjavik,Blue Lagoon,scenic,140,5
+Reykjavik,City Walk,walk,0,2
+Reykjavik,Food Hall,food,30,2
+Reykjavik,Northern Lights Tour,scenic,110,4
